@@ -1,3 +1,7 @@
 [submodule "backend"]
 	path = backend
 	url = C:\\Users\\91881\\Desktop\\multimodal_vlp>
+
+[submodule "frontend"]
+	path = frontend
+	url = C:\\Users\\91881\\Desktop\\multimodal_vlp>
